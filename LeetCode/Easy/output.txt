@@ -1,0 +1,3 @@
+Entered 5 elements
+Array after removing 2: 3 5 
+New length = 2
